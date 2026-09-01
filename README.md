@@ -19,8 +19,11 @@ I'm now expanding my engineering toolkit into **Python, data analytics, AI, and 
 ### 🛠️ Technology
 
 **Languages:** Python · SQL · Baan 3GL/4GL
+
 **Data & Analytics:** Pandas · Data Analysis · Data Visualization · Power BI
+
 **Enterprise:** Infor LN / Baan · ERP Customization · SSRS
+
 **AI:** LLMs · Generative AI · AI Applications
 **Tools:** Git · GitHub
 
