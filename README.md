@@ -25,6 +25,7 @@ I'm now expanding my engineering toolkit into **Python, data analytics, AI, and 
 **Enterprise:** Infor LN / Baan · ERP Customization · SSRS
 
 **AI:** LLMs · Generative AI · AI Applications
+
 **Tools:** Git · GitHub
 
 ### 🌱 What I'm Building
