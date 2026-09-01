@@ -4,7 +4,7 @@
 
 I'm an **ERP Software Engineer with 5+ years of experience** building and supporting enterprise software solutions for the **heavy equipment and fleet management industries**.
 
-My experience spans the full software development lifecycle—from **business requirements analysis and ERP customization to development, debugging, testing, reporting, and deployment**. I've worked extensively with **Infor LN/Baan, SQL, SSRS, and Service Management workflows**, collaborating with functional consultants, QA teams, and global stakeholders.
+My experience spans the full software development lifecycle - from **business requirements analysis and ERP customization to development, debugging, testing, reporting, and deployment**. I've worked extensively with **Infor LN/Baan, SQL, SSRS, and Service Management workflows**, collaborating with functional consultants, QA teams, and global stakeholders.
 
 I'm now expanding my engineering toolkit into **Python, data analytics, AI, and modern application development**, with a focus on building practical solutions that connect **technology, data, and real-world business problems**.
 
