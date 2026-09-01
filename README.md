@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trusha Karandikar
+# 👋 Hi, I'm Trusha
 
 ### ERP Software Engineer | Python | Data Analytics | AI | Product
 
